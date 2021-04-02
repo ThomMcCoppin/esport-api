@@ -1,11 +1,13 @@
-[
-  {
-    "name": "League of Legends"
-  },
-  {
-    "name": "Overwatch"
-  },
-  {
-    "name": "Valorant"
-  }
-]
+{
+   "games" : [
+    {
+      "name": "League of Legends"
+    },
+    {
+      "name": "Overwatch"
+    },
+    {
+      "name": "Valorant"
+    }
+  ]
+}
