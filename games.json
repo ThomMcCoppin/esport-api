@@ -1,12 +1,15 @@
 {
    "games" : [
-    {
+    { 
+      "id": 1,
       "name": "League of Legends"
     },
     {
+      "id": 2,
       "name": "Overwatch"
     },
     {
+      "id": 3,
       "name": "Valorant"
     }
   ]
